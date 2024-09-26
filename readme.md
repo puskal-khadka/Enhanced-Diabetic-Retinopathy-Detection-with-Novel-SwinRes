@@ -17,8 +17,6 @@ The first phase of the base model consists of two parallel components: a tiny va
 
 The proposed model was evaluated on the Aptos 2019 datasets, which consist of retinal images categorized into five classes: Normal, Mild, Moderate, Severe and Proliferative. 
 
-
-
 <p align="center">
 <img src="./assets/eye.png" alt="DR retinal eye phase" width="80%"  />
 </p>  
@@ -38,12 +36,12 @@ When compared to the state-of-the-art Swin Transformer model, the proposed model
 
 <p align = "center">
 <img src="./assets/model_eval.png" alt="swinres comparision with other models" width="85%" />
-
 </p>
 
 <p align = "center">
-Fig. Comparision of the different models on aptos 2019 datasets 
+Table: Comparision of the different models on aptos 2019 datasets 
 </p>
+
 
 ## Visualization
 
